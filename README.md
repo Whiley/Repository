@@ -7,13 +7,12 @@ near future.
 
 ## Usage
 
-To use a package in Whiley (e.g. `std` version `0.2.15`, you must add
+To use a package in Whiley (e.g. `std` version `0.2.15`), you must add
 this to you `wy.toml` file:
 
 ```
 [dependencies]
 std="0.2.15"
-html="0.1.7"
 ```
 
 ## Deployment
